@@ -1,6 +1,6 @@
 
 <p align="center">
-  M1r4g3
+  <h1>M1r4g3</h1>
 <p/>
 ## Hey! 👋<br>
 
