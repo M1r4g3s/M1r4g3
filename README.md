@@ -1,6 +1,4 @@
-<p align="center>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
-<p/>
+
 <h1 align="center">
   M1r4g3
 </h1>
