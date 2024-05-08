@@ -13,7 +13,7 @@ I'm M1r4g3, a 19 years old web developer from France.
   <br>
   3rd year: soon
   
-- + a lot more ;)
+- <p>+ a lot more soon ;)</p>
 
 ## Skills
 - 👨‍💻 Python, JavaScript, C++, PHP, Java,etc...
