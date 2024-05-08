@@ -3,7 +3,8 @@
   M1r4g3
 </h1>
 
-## Hey! 👋
+## Hey! 👋<br>
+
 I'm M1r4g3, a 19 years old web developer from France.
 
 - 👨‍💻 Student in Creation of applications: design, development, validation.
