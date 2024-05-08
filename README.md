@@ -20,7 +20,6 @@ I'm M1r4g3, a 19 years old web developer from France.
 - ⚙️ React, Vue
 - 👁️ CSS
 - 💽 MySQL, SQL, Mongo
-+ a lot more :D
 
 ## Contact
 - [M1r4g3.xyz](https://M1r4g3.xyz)
