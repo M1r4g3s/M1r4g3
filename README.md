@@ -1,5 +1,5 @@
 <h2 align="center>
-  ![image]("https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white")
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <h2/>
 <h1 align="center">
   M1r4g3
@@ -10,8 +10,10 @@ I'm M1r4g3, a 19 years old web developer from France.
 
 - 👨‍💻 Student in Creation of applications: design, development, validation.
   <br>
-  1st year: France 
+  1st year: France
+  <br>
   2nd year: Thailand at Prince of Songkla University Phuket
+  <br>
   3rd year: soon
   
 - + a lot more ;)
