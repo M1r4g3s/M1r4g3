@@ -1,8 +1,7 @@
 
-<p align="center">
-  <h1>M1r4g3</h1>
+<p >
+  <h1 align="center">M1r4g3</h1>
 <p/>
-## Hey! 👋<br>
 
 I'm M1r4g3, a 19 years old web developer from France.
 
