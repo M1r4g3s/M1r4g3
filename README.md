@@ -16,11 +16,12 @@ I'm M1r4g3, a 19 years old web developer from France.
 - <p>+ a lot more soon ;)</p>
 
 ## Skills
-- 👨‍💻 Python, JavaScript, C++, PHP, Java,etc...
+- 👨‍💻 Scala, JavaScript, C++, PHP, Java,etc...
 - ⚙️ React, Vue
 - 👁️ CSS
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
+- m1r4g3.dev@yandex.com
 - [M1r4g3.xyz](https://M1r4g3.xyz)
 - [@m1r4g3d](https://discord.com/users/744892863367872552) on Discord
